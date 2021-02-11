@@ -1,0 +1,80 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(46,26): warning C4305: '=': truncation from 'double' to 'float'
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(99,20): warning C4154: deletion of an array expression; conversion to pointer supplied
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(109,20): warning C4154: deletion of an array expression; conversion to pointer supplied
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(119,25): warning C4154: deletion of an array expression; conversion to pointer supplied
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(129,18): warning C4154: deletion of an array expression; conversion to pointer supplied
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(158,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(158,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(171,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(171,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(184,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(184,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(192,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(192,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(343,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(348,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(355,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(356,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(361,13): warning C4551: function call missing argument list
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(432,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(436,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(440,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(444,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(467,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(468,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(485,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(512,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(522,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(533,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(649,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(651,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(653,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(655,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(660,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(661,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(662,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(663,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(683,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(685,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(687,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(689,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(694,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(695,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(696,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(697,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(710,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(711,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(712,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(713,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(726,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(727,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(728,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(729,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(734,26): warning C4552: '+': result of expression not used
+  Generating Code...
+  Pacman.vcxproj -> D:\kenny\Documents\University of Staffordshire\Fundamentals of Game and Graphical Systems Development (FOGGS)\PacmanFramework(S2Dv1.5)\Pacman\Debug\Pacman.exe
